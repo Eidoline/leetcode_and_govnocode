@@ -1,2 +1,1 @@
-# leetcode_and_govnocode
-Only quick coding, only hardcore
+This repository does not intend to offend anyone.
